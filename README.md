@@ -270,10 +270,10 @@ Since __component__ plugin uses [parcel](https://parceljs.org) as a bundler you 
 
 ```
 # if you use npm
-npm install -g parcel-bundler
+npm install -g parcel
 
 # or yarn
-yarn global add parcel-bundler
+yarn global add parcel
 ```
 
 ## Usage
